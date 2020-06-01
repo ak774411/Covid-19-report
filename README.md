@@ -1,10 +1,10 @@
 # Covid-19-report
 Steps to run:
 
-Clone the repo
+1.Clone the repo
 
-Run PHP file(4021.php)
+2.Run PHP file(4021.php)
 
-Enter in the Country name to check stats
+3.Enter in the Country name to check stats
 
-Click the top bottom to change the page to check the rank of the country about the covid-19 situation
+4.Click the top bottom to change the page to check the rank of the country about the covid-19 situation
